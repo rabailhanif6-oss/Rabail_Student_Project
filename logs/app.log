@@ -1,0 +1,12 @@
+2026-10-01 10:45:17,550 - INFO - Application started
+2026-10-01 10:45:50,411 - INFO - Application started
+2026-10-01 10:45:50,608 - INFO - Application started
+2026-10-01 10:45:50,608 - WARNING - Empty student name entered
+2026-10-01 10:45:50,816 - INFO - Application started
+2026-10-01 10:45:50,817 - ERROR - Invalid marks entered
+2026-10-01 10:45:51,015 - INFO - Application started
+2026-10-01 10:45:51,015 - WARNING - Invalid marks entered: 150
+2026-10-01 10:45:51,210 - INFO - Application started
+2026-10-01 10:45:51,211 - WARNING - Invalid marks entered: -10
+2026-10-01 10:45:51,367 - INFO - Application started
+2026-10-01 10:45:51,542 - INFO - Application started
